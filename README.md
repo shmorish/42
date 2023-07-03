@@ -26,7 +26,7 @@ Jul 2, 2023 ~
 
 <h2>Reloaded</h2>
 <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
-Jun 13, 2023　~
+Jun 13, 2023 ~
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3119750" alt="shmorish's 42 hello_node Score" /></a>
 
 <b>Accenture 42Tokyo Workshop 2023</b><br>
