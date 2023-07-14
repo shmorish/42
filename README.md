@@ -14,7 +14,7 @@ May 31, 2023 ~ Jun 11, 2023
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118116" alt="shmorish's 42 ft_printf Score" /></a>
 
 <a href ="https://github.com/Mori062/get_next_line"><b>get_next_line</b></a><br>
-Jun 11, 2023 ~
+Jun 11, 2023 ~ Jul 2, 2023
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118117" alt="shmorish's 42 get_next_line Score" /></a>
 
 <a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a><br>
