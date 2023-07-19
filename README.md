@@ -9,6 +9,7 @@ May 16, 2023 ~ Jun 11, 2023
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3093704" alt="shmorish's 42 Libft Score" /></a>
 
 <h3>Project Rank 1</h3>
+
 <a href ="https://github.com/Mori062/ft_printf"><b>ft_printf</b></a><br>
 May 31, 2023 ~ Jun 11, 2023
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118116" alt="shmorish's 42 ft_printf Score" /></a>
@@ -22,6 +23,7 @@ Jul 2, 2023 ~ Jul 14, 2023
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118254" alt="shmorish's 42 Born2beroot Score" /></a>
 
 <h3>Project Rank 2</h3>
+
 <a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a><br>
 
 <a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a><br>
