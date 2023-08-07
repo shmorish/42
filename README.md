@@ -20,15 +20,16 @@
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
-|<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>|
-|<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|
-|<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>|
+|<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3179823" alt="shmorish's 42 minitalk Score" /></a>|Jul 21, 2023 ~ Jul 30, 2023
+|<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3207834" alt="shmorish's 42 fract-ol Score" /></a>|Jul 11, 2023 ~ Aug 2, 2023
+|<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>||Jul 4, 2023 ~ 
 
 <h3>Project Rank 3</h3>
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
 |<a href ="https://github.com/Mori062/minishell"><b>minishell</a>|
+|<a href ="https://github.com/Mori062/minishell"><b>Philosophers</a>|
 
 <h2>Reloaded</h2>
 <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
