@@ -15,7 +15,7 @@
 |<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3207834" alt="shmorish's 42 fract-ol Score" /></a>|Jul 11, 2023 ~ Aug 2, 2023
 |<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3229037" alt="shmorish's 42 push_swap Score" /></a>|Jul 28, 2023 ~ Aug 20, 2023
 |**Project Rank 3**|
-|<a href ="https://github.com/Mori062/minishell"><b>minishell</a>||Aug 16, 2023 ~ |
+|<a href ="https://github.com/Mori062/minishell"><b>minishell</a>||Aug 16, 2023 ~ Sep 18, 2023|
 |<a href ="https://github.com/Mori062/Philosophers"><b>Philosophers</a>|||
 
 <h2>Reloaded</h2>
