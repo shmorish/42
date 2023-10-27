@@ -7,16 +7,16 @@
 |**Project Rank 0**|
 |<a href ="https://github.com/Mori062/libft"><b>Libft</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/1a41dceb-577e-4fe4-a671-de217c82d4ac">|May 16, 2023 ~ Jun 11, 2023|
 |**Project Rank 1**|
-|<a href ="https://github.com/Mori062/ft_printf"><b>ft_printf</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118116" alt="shmorish's 42 ft_printf Score" /></a>|May 31, 2023 ~ Jun 11, 2023|
-|<a href ="https://github.com/Mori062/get_next_line"><b>get_next_line</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118117" alt="shmorish's 42 get_next_line Score" /></a>|Jun 11, 2023 ~ Jul 2, 2023|
-|<a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3118254" alt="shmorish's 42 Born2beroot Score" /></a>|Jul 2, 2023 ~ Jul 14, 2023|
+|<a href ="https://github.com/Mori062/ft_printf"><b>ft_printf</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|May 31, 2023 ~ Jun 11, 2023|
+|<a href ="https://github.com/Mori062/get_next_line"><b>get_next_line</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jun 11, 2023 ~ Jul 2, 2023|
+|<a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jul 2, 2023 ~ Jul 14, 2023|
 |**Project Rank 2**|
-|<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3179823" alt="shmorish's 42 minitalk Score" /></a>|Jul 21, 2023 ~ Jul 30, 2023
-|<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3207834" alt="shmorish's 42 fract-ol Score" /></a>|Jul 11, 2023 ~ Aug 2, 2023
-|<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3229037" alt="shmorish's 42 push_swap Score" /></a>|Jul 28, 2023 ~ Aug 20, 2023
+|<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/cd5e49fb-0ef0-479a-8251-5364363817ca">|Jul 21, 2023 ~ Jul 30, 2023
+|<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/3ac01058-e8f5-4494-8b5f-4a912fe7b3f3">|Jul 11, 2023 ~ Aug 2, 2023
+|<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jul 28, 2023 ~ Aug 20, 2023
 |**Project Rank 3**|
-|<a href ="https://github.com/Mori062/minishell"><b>minishell</a>||Aug 16, 2023 ~ Sep 18, 2023|
-|<a href ="https://github.com/Mori062/Philosophers"><b>Philosophers</a>|||
+|<a href ="https://github.com/Mori062/minishell"><b>minishell</a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/d8ac141b-1e96-408d-afb7-23a2e5feeaa5">|Aug 16, 2023 ~ Sep 18, 2023|
+|<a href ="https://github.com/Mori062/Philosophers"><b>Philosophers</a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">||
 
 <h2>Reloaded</h2>
 <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
