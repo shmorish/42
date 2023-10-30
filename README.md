@@ -26,6 +26,15 @@
 |<a href ="https://github.com/Mori062/CPP-Module-03"><b>CPP-Module-03</a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
 |<a href ="https://github.com/Mori062/CPP-Module-04"><b>CPP-Module-04</a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
 
+
+<h2>42cursus Exam Score</h2>
+
+| Project | Score | Date |
+| :---: | :---: | :---: |
+|Exam 02|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Aug 26, 2023|
+|Exam 03|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Sep 12, 2023|
+|Exam 04|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
+
 <h2>Reloaded</h2>
 <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
 Jun 13, 2023 ~
