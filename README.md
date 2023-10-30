@@ -28,6 +28,13 @@
 |**Project Rank 5**|
 |<a href ="https://github.com/Mori062/webserv"><b>webserv</a>|||
 |<a href ="https://github.com/Mori062/Inception"><b>Inception</a>|||
+|<a href ="https://github.com/Mori062/CPP-Module-05"><b>CPP-Module-05</a>|||
+|<a href ="https://github.com/Mori062/CPP-Module-06"><b>CPP-Module-06</a>|||
+|<a href ="https://github.com/Mori062/CPP-Module-07"><b>CPP-Module-07</a>|||
+|<a href ="https://github.com/Mori062/CPP-Module-08"><b>CPP-Module-08</a>|||
+|<a href ="https://github.com/Mori062/CPP-Module-09"><b>CPP-Module-09</a>|||
+|**Project Rank 6**|
+|<a href ="https://github.com/Mori062/ft_transcendence"><b>ft_transcendence</a>|||
 
 <h2>42cursus Exam Score</h2>
 
