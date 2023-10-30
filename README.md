@@ -9,7 +9,7 @@
 |**Project Rank 1**|
 |<a href ="https://github.com/Mori062/ft_printf"><b>ft_printf</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|May 31, 2023 ~ Jun 11, 2023|
 |<a href ="https://github.com/Mori062/get_next_line"><b>get_next_line</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jun 11, 2023 ~ Jul 2, 2023|
-|<a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jul 2, 2023 ~ Jul 14, 2023|
+|<a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Jul 2, 2023 ~ Jul 14, 2023|
 |**Project Rank 2**|
 |<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/cd5e49fb-0ef0-479a-8251-5364363817ca">|Jul 21, 2023 ~ Jul 30, 2023
 |<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/3ac01058-e8f5-4494-8b5f-4a912fe7b3f3">|Jul 11, 2023 ~ Aug 2, 2023
