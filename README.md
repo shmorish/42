@@ -44,6 +44,13 @@
 |Exam 03|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Sep 12, 2023|
 |Exam 04|<img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
 
+<h2>42Tokyo Road To Score</h2>
+
+| Project | Score | Date |
+| :---: | :---: | :---: |
+|<a href ="https://github.com/Mori062/Road-to-MIXI-Mini-SNS-00"><b>Road-to-MIXI-Mini-SNS-00</a>|||
+|<a href ="https://github.com/Mori062/Road-to-MIXI-Mini-SNS-01"><b>Road-to-MIXI-Mini-SNS-01</a>|||
+
 <h2>Reloaded</h2>
 <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
 Jun 13, 2023 ~
