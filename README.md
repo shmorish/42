@@ -55,7 +55,7 @@
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
-|<a href ="https://github.com/Mori062/ft_mini_ls"><b>ft_mini_ls</a>||Dec 6, 2023|
+|<a href ="https://github.com/Mori062/ft_mini_ls"><b>ft_mini_ls</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/d8ac141b-1e96-408d-afb7-23a2e5feeaa5">|Dec 6, 2023|
 
 <!-- <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
 Jun 13, 2023 ~
