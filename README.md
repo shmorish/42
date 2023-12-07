@@ -52,9 +52,14 @@
 |<a href ="https://github.com/Mori062/Road-to-MIXI-Mini-SNS-01"><b>Road-to-MIXI-Mini-SNS-01</a>|||
 
 <h2>Reloaded</h2>
-<a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
+
+| Project | Score | Date |
+| :---: | :---: | :---: |
+|<a href ="https://github.com/Mori062/ft_mini_ls"><b>ft_mini_ls</a>||Dec 6, 2023|
+
+<!-- <a href ="https://github.com/Mori062/hello_node"><b>hello_node</b></a><br>
 Jun 13, 2023 ~
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3119750" alt="shmorish's 42 hello_node Score" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3119750" alt="shmorish's 42 hello_node Score" /></a> -->
 
 ## 42Tokyo Original Event
 ### SEMICON JAPAN × 42Tokyo 2023 
