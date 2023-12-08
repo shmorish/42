@@ -2,27 +2,27 @@
 
 <h2>42cursus First Circle</h2>
 
-| Project | Score | Date |
-| :---: | :---: | :---: |
-|**Project Rank 0**||May 16, 2023 ~ Jun 4, 2023 **(19days)**|
-|<a href ="https://github.com/Mori062/libft"><b>Libft</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/1a41dceb-577e-4fe4-a671-de217c82d4ac">|May 16, 2023 ~ Jun 4, 2023|
-|**Project Rank 1**||May 31, 2023 ~ Jul 14, 2023 **(44days)**|
-|<a href ="https://github.com/Mori062/ft_printf"><b>ft_printf</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|May 31, 2023 ~ Jun 11, 2023|
-|<a href ="https://github.com/Mori062/get_next_line"><b>get_next_line</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jun 11, 2023 ~ Jul 2, 2023|
-|<a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Jul 2, 2023 ~ Jul 14, 2023|
-|**Project Rank 2**||Jul 11, 2023 ~ Aug 20, 2023 **(41days)**|
-|<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/cd5e49fb-0ef0-479a-8251-5364363817ca">|Jul 21, 2023 ~ Jul 30, 2023|
-|<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/3ac01058-e8f5-4494-8b5f-4a912fe7b3f3">|Jul 11, 2023 ~ Aug 2, 2023|
-|<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jul 28, 2023 ~ Aug 20, 2023|
-|**Project Rank 3**||Aug 16, 2023 ~ Oct 23, 2023 **(68days)**|
-|<a href ="https://github.com/Mori062/minishell"><b>minishell</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/d8ac141b-1e96-408d-afb7-23a2e5feeaa5">|Aug 16, 2023 ~ Sep 18, 2023|
-|<a href ="https://github.com/Mori062/Philosophers"><b>Philosophers</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Sep 17, 2023 ~ Oct 23, 2023|
-|**Project Rank 4**||Oct 16, 2023 ~ |
-|<a href ="https://github.com/Mori062/cub3d"><b>cub3d</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/d499c357-ee13-448d-b86f-3cc7e1736e89">|Oct 20, 2023 ~ Dec 5, 2023|
-|<a href ="https://github.com/Mori062/NetPractice"><b>NetPractice</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Dec 6, 2023|
-|<a href ="https://github.com/Mori062/CPP-Module-00"><b>CPP-Module-00</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/ddf63613-5401-4c5b-ae82-9bc9e11645ae">|Oct 16, 2023 ~ Oct 22, 2023|
-|<a href ="https://github.com/Mori062/CPP-Module-01"><b>CPP-Module-01</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/afd694aa-ab26-4c33-930c-1e9a1e910838">|Oct 19, 2023 ~ Dec 6, 2023|
-|<a href ="https://github.com/Mori062/CPP-Module-02"><b>CPP-Module-02</a>|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
+| Project                                                                           | Language/Skills    | Score | Date                                  |
+| :-------------------------------------------------------------------------------: | :----------------: | :---: | :-----------------------------------: |
+|**Project Rank 0**                                                                 |                    |       |May 16, 2023 ~ Jun 4, 2023 **(19days)**|
+|<a href ="https://github.com/Mori062/libft"><b>Libft</b></a>                       |C                   |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/1a41dceb-577e-4fe4-a671-de217c82d4ac">|May 16, 2023 ~ Jun 4, 2023|
+|**Project Rank 1**                                                                 |                    |       |May 31, 2023 ~ Jul 14, 2023 **(44days)**|
+|<a href ="https://github.com/Mori062/ft_printf"><b>ft_printf</b></a>               |C                   |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|May 31, 2023 ~ Jun 11, 2023|
+|<a href ="https://github.com/Mori062/get_next_line"><b>get_next_line</b></a>       |C                   |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jun 11, 2023 ~ Jul 2, 2023|
+|<a href ="https://github.com/Mori062/Born2beroot"><b>Born2beroot</b></a>           |Linux, Shell        |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Jul 2, 2023 ~ Jul 14, 2023|
+|**Project Rank 2**                                                                 |                    |       |Jul 11, 2023 ~ Aug 20, 2023 **(41days)**|
+|<a href ="https://github.com/Mori062/minitalk"><b>minitalk</b></a>                 |C, signals          |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/cd5e49fb-0ef0-479a-8251-5364363817ca">|Jul 21, 2023 ~ Jul 30, 2023|
+|<a href ="https://github.com/Mori062/fract-ol"><b>fract-ol</b></a>                 |C, Computer Graphics|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/3ac01058-e8f5-4494-8b5f-4a912fe7b3f3">|Jul 11, 2023 ~ Aug 2, 2023|
+|<a href ="https://github.com/Mori062/push_swap"><b>push_swap</b></a>               |C, Algorithm        |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|Jul 28, 2023 ~ Aug 20, 2023|
+|**Project Rank 3**                                                                 |                    |       |Aug 16, 2023 ~ Oct 23, 2023 **(68days)**|
+|<a href ="https://github.com/Mori062/minishell"><b>minishell</a>                   |C, Shell(bash)      |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/d8ac141b-1e96-408d-afb7-23a2e5feeaa5">|Aug 16, 2023 ~ Sep 18, 2023|
+|<a href ="https://github.com/Mori062/Philosophers"><b>Philosophers</a>             |C, thread           |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Sep 17, 2023 ~ Oct 23, 2023|
+|**Project Rank 4**                                                                 |                    |       |Oct 16, 2023 ~ |
+|<a href ="https://github.com/Mori062/cub3d"><b>cub3d</a>                           |C, Computer Graphics|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/d499c357-ee13-448d-b86f-3cc7e1736e89">|Oct 20, 2023 ~ Dec 5, 2023|
+|<a href ="https://github.com/Mori062/NetPractice"><b>NetPractice</a>               |NetWorks, IP address|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Dec 6, 2023|
+|<a href ="https://github.com/Mori062/CPP-Module-00"><b>CPP-Module-00</a>           |C++                 |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/ddf63613-5401-4c5b-ae82-9bc9e11645ae">|Oct 16, 2023 ~ Oct 22, 2023|
+|<a href ="https://github.com/Mori062/CPP-Module-01"><b>CPP-Module-01</a>           |C++                 |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/afd694aa-ab26-4c33-930c-1e9a1e910838">|Oct 19, 2023 ~ Dec 6, 2023|
+|<a href ="https://github.com/Mori062/CPP-Module-02"><b>CPP-Module-02</a>           |C++                 |<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
 |<a href ="https://github.com/Mori062/CPP-Module-03"><b>CPP-Module-03</a>|||
 |<a href ="https://github.com/Mori062/CPP-Module-04"><b>CPP-Module-04</a>|||
 |**Project Rank 5**|
