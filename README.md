@@ -1,7 +1,6 @@
 <h1>42</h1>
 
-<img width="1758" alt="スクリーンショット 2023-12-09 0 51 17" src="https://github.com/Mori062/42/assets/110565242/de5481e1-f40d-4fcf-8566-705d3a753ff8">
-
+<img width="1800" alt="first_cursus" src="https://github.com/Mori062/42/assets/110565242/89793a1e-a363-40d3-b635-8713a3e744b4">
 
 <h2>42cursus First Circle</h2>
 
