@@ -66,11 +66,14 @@ Jun 13, 2023 ~
 
 ## 42Tokyo Original Event
 ### SEMICON JAPAN × 42Tokyo 2023 
-半導体製造時のパーティクル検出をイメージとした、画像認識の精度を競うコンテスト
-- [particle-detection-quest-2023](https://github.com/Mori062/particle-detection-quest-2023)
->  参画企業 : キヤノン株式会社 / 株式会社日立ハイテク / 株式会社SCREENセミコンダクターソリューションズ / 東京エレクトロン株式会社
->
-> URL : [https://www.semiconjapan.org/jp/](https://www.semiconjapan.org/jp/) / [https://www.semiconjapan.org/jp/workforce/semicon-42hackathon](https://www.semiconjapan.org/jp/workforce/semicon-42hackathon)
+>_パーティクル検知クエスト ～パティクエ～
+42Tokyo若手ソフトウェアエンジニアによるハッカソン_ <br>
+参画企業 : キヤノン株式会社 / 株式会社日立ハイテク / 株式会社SCREENセミコンダクターソリューションズ / 東京エレクトロン株式会社 <br>
+URL : [SEMICON JAPAN](https://www.semiconjapan.org/jp/) / [semicon-42hackathon](https://www.semiconjapan.org/jp/workforce/semicon-42hackathon) <br>
+
+レポジトリ　: [particle-detection-quest-2023](https://github.com/Mori062/particle-detection-quest-2023)
+
+
 
 <b>Accenture 42Tokyo Workshop 2023</b><br>
 Jun 4, 2023
