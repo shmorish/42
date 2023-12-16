@@ -73,6 +73,10 @@ URL : [SEMICON JAPAN](https://www.semiconjapan.org/jp/) / [semicon-42hackathon](
 
 レポジトリ　: [particle-detection-quest-2023](https://github.com/Mori062/particle-detection-quest-2023)
 
+### TOYOTA × 42 Tokyo共催
+>_⚡️『自動運転ミニカーバトル』開催⚡️
+電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_
+
 
 
 <b>Accenture 42Tokyo Workshop 2023</b><br>
