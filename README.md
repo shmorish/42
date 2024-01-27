@@ -71,7 +71,8 @@ URL : [SEMICON JAPAN](https://www.semiconjapan.org/jp/) / [semicon-42hackathon](
 
 ### TOYOTA × 42 Tokyo共催
 >_⚡️『自動運転ミニカーバトル』開催⚡️
-電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_
+電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_ <br>
+URL : <a href ="https://twitter.com/42_tokyo/status/1750825814948729326">運営ポスト</a>　<br>
 
 - 優勝  /  全15チーム
 - チームメンバ : <a href ="https://github.com/ssmyg">syagi</a> <a href ="https://github.com/tkuramot/">tkuramot</a> <a href ="https://github.com/Ishi-eenn">tsishika</a>
