@@ -76,7 +76,3 @@ URL : [SEMICON JAPAN](https://www.semiconjapan.org/jp/) / [semicon-42hackathon](
 - 優勝  /  全15チーム
 - チームメンバ : <a href ="https://github.com/ssmyg">syagi</a> <a href ="https://github.com/tkuramot/">tkuramot</a> <a href ="https://github.com/Ishi-eenn">tsishika</a>
 - チームアカウント : <a href ="https://github.com/TOYOTA-Rebellious-cat-bus"><b>反コウ期のネコバス
-
-<b>Accenture 42Tokyo Workshop 2023</b><br>
-Jun 4, 2023
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3110608" alt="shmorish's 42 Accenture 42Tokyo Workshop 2023 Score" /></a>
