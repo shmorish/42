@@ -73,7 +73,9 @@ URL : [SEMICON JAPAN](https://www.semiconjapan.org/jp/) / [semicon-42hackathon](
 >_⚡️『自動運転ミニカーバトル』開催⚡️
 電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_
 
-
+- 優勝  /  全15チーム
+- チームメンバ : <a href ="https://github.com/ssmyg">syagi</a> <a href ="https://github.com/tkuramot/">tkuramot</a> <a href ="https://github.com/Ishi-eenn">tsishika</a>
+- チームアカウント : <a href ="https://github.com/TOYOTA-Rebellious-cat-bus"><b>反コウ期のネコバス
 
 <b>Accenture 42Tokyo Workshop 2023</b><br>
 Jun 4, 2023
