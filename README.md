@@ -40,7 +40,7 @@
 | :---: | :---: | :---: |
 |Exam 02|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Aug 26, 2023|
 |Exam 03|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Sep 12, 2023|
-|Exam 04|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
+|Exam 04|<img width="150" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Jan 20, 2024|
 
 <h2>42Tokyo Road To Score</h2>
 
@@ -76,4 +76,4 @@ URL : <a href ="https://twitter.com/42_tokyo/status/1750825814948729326">運営�
 
 - 優勝  /  全15チーム
 - チームメンバ : <a href ="https://github.com/ssmyg">syagi</a> <a href ="https://github.com/tkuramot/">tkuramot</a> <a href ="https://github.com/Ishi-eenn">tsishika</a>
-- チームアカウント : <a href ="https://github.com/TOYOTA-Rebellious-cat-bus"><b>反コウ期のネコバス
+- チームアカウント : <a href ="https://github.com/Rebellious-cat-bus"><b>反コウ期のネコバス
