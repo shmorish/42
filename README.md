@@ -24,15 +24,11 @@
 |<a href ="https://github.com/shmorish/NetPractice"><b>NetPractice</a>               |NetWorks, IP address|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Dec 6, 2023|
 |<a href ="https://github.com/shmorish/cpp_modules"><b>CPP00-04</a>                 |C++                 |<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/ddf63613-5401-4c5b-ae82-9bc9e11645ae">|Oct 16, 2023 ~ Dec 23, 2023|
 |**Project Rank 5**|
-|<a href ="https://github.com/shmorish/webserv"><b>webserv</a>|||
-|<a href ="https://github.com/shmorish/Inception"><b>Inception</a>|||
-|<a href ="https://github.com/shmorish/CPP-Module-05"><b>CPP-Module-05</a>|||
-|<a href ="https://github.com/shmorish/CPP-Module-06"><b>CPP-Module-06</a>|||
-|<a href ="https://github.com/shmorish/CPP-Module-07"><b>CPP-Module-07</a>|||
-|<a href ="https://github.com/shmorish/CPP-Module-08"><b>CPP-Module-08</a>|||
-|<a href ="https://github.com/shmorish/CPP-Module-09"><b>CPP-Module-09</a>|||
+|<a href ="https://github.com/shmorish/ft_irc"><b>ft_irc</a>|C++, Socket Programming|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088">|~ Jun 9, 2025|
+|<a href ="https://github.com/shmorish/Inception"><b>Inception</a>|Docker|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/3ac01058-e8f5-4494-8b5f-4a912fe7b3f3">|~ Dec 30, 2025|
+|<a href ="https://github.com/shmorish/cpp_modules"><b>CPP05-09</a>|C++|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|~ Dec 30, 2024|
 |**Project Rank 6**|
-|<a href ="https://github.com/shmorish/ft_transcendence"><b>ft_transcendence</a>|||
+|<a href ="https://github.com/shmorish/ft_transcendence"><b>ft_transcendence</a>|Web|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|~ Jun 22, 2025|
 
 <h2>42cursus Exam Score</h2>
 
@@ -41,6 +37,7 @@
 |Exam 02|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Aug 26, 2023|
 |Exam 03|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Sep 12, 2023|
 |Exam 04|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Jan 20, 2024|
+|Exam 05|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276">|Jul 23, 2024|
 
 <h2>42Tokyo Road To Score</h2>
 
@@ -56,9 +53,6 @@
 |<a href ="https://github.com/shmorish/ft_mini_ls"><b>ft_mini_ls</a>|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/d8ac141b-1e96-408d-afb7-23a2e5feeaa5">|Dec 6, 2023|
 |<a href ="https://github.com/shmorish/42"><b>Go Piscine Go 00</a>|<img width="150" alt="image" src="https://github.com/shmorish/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3">||
 
-<!-- <a href ="https://github.com/shmorish/hello_node"><b>hello_node</b></a><br>
-Jun 13, 2023 ~
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/project/3119750" alt="shmorish's 42 hello_node Score" /></a> -->
 
 ## 42Tokyo Original Event
 ### SEMICON JAPAN × 42Tokyo 2023 
